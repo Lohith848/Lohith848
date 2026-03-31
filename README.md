@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Lohith, a student exploring tech, AI. I enjoy building practical projects such as games, automation tools, and AI-powered applications. I am currently developing Cyrus, my personal AI assistant . I like learning new technologies by turning ideas into working projects and improving them step by step while strengthening my programming and problem-solving skills.<br><br>
+Hi, I'm Lohith, a student exploring tech, AI. I enjoy building practical projects such as games, automation tools, and AI-powered applications. I like learning new technologies by turning ideas into working projects and improving them step by step while strengthening my programming and problem-solving skills.<br><br>
 
 
 ## 🌐 Socials:
