@@ -1,21 +1,67 @@
-# About Me:
-Hi, I'm Lohith, a student exploring tech, AI. I enjoy building practical projects such as building websits, automation tools, and AI-powered applications. I like learning new technologies by turning ideas into working projects and improving them step by step while strengthening my programming and problem-solving skills.<br><br>
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC8CFF&height=180&section=header&text=Lohith&fontSize=55&fontColor=58A6FF&animation=fadeIn&desc=AI-Native%20Builder%20%7C%20Vibecoder%20%7C%20Full-Stack%20Developer&descAlignY=65&descSize=18&fontAlignY=35)
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohithbuilds/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lohithg080408@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-Native+Full-Stack+Developer;Vibecoding+with+Claude+%26+Modern+AI+Agents;Shipping+Production-Ready+Apps+Fast)](https://github.com/Lohith848)
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lohith848&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lohith848&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith848&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</div>
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 👋 About Me
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Lohith848&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm a self-described **vibecoder** — an AI-native developer who pairs with modern AI agents and workflows to rapidly prototype, iterate, and ship production-ready apps, often going from idea to deployed product in days, not months.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Currently a Computer Science student, freelance full-stack developer (operating as **TWINLOGIC**), and builder of real AI products spanning agriculture tech, personal finance, and automation. I believe the best way to learn is to ship — so that's what I do, constantly.
+
+🎯 **Currently:** building AI-first products with Next.js + Supabase + Claude/Groq, and open to internships & collaborations.
+
+<br>
+
+## 🛠️ Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=BC8CFF)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=58A6FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0B72F)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=F0B72F)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=39D353)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39D353)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=39D353)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=C9D1D9)
+![Groq](https://img.shields.io/badge/Groq-0D1117?style=flat-square&logo=groq&logoColor=F0B72F)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=BC8CFF)
+![Notion](https://img.shields.io/badge/Notion-0D1117?style=flat-square&logo=notion&logoColor=C9D1D9)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F0B72F)
+
+<br>
+
+## 🚀 Featured Projects
+
+| Project | What it does |
+|---|---|
+| **[F1 Pit Wall Dashboard](https://lohithpitwall.netlify.app)** | A personalized live F1 race dashboard built with vanilla JS and the Jolpica F1 API |
+| **AgroShield AI** | Precision agriculture web app for Indian farmers — plant disease detection, live mandi prices & weather, built on Next.js, Supabase & Gemini |
+| **Calora** | Nutrition-tracking app with AI food scanning and Supabase-backed analytics |
+| **LaunchPad** | A desktop PWA app launcher with a Braun/Bloomberg-inspired "Machined Precision" design |
+
+<br>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_color=30363D&hide_border=false&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=Lohith848&theme=dark&background=0D1117&ring=BC8CFF&fire=F0B72F&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border=30363D&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith848&layout=compact&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false&count_private=true)
+
+<br>
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/lohithbuilds/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=F0B72F)](mailto:lohithg080408@gmail.com)
+
+<div align="center">
+
+<sub>Built with curiosity, shipped with AI 🤖</sub>
+
+</div>
