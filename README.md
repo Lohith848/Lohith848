@@ -19,15 +19,15 @@
 
 ## About Me
 
-I'm a self-described **vibecoder** — an AI-native developer who pairs with modern AI agents and workflows to rapidly prototype, iterate, and ship production-ready apps, often going from idea to deployed product in days, not months.
+ I'm Lohith — a Computer Science student, AI-native developer, and builder.
 
-Currently a Computer Science student, freelance full-stack developer (operating as **TWINLOGIC**), and builder of real AI products spanning agriculture tech, personal finance, and automation. I believe the best way to learn is to ship — so that's what I do, constantly.
+I love turning ideas into real products. Using AI, modern developer tools, and a lot of curiosity, I rapidly prototype, iterate, and ship applications that solve real-world problems.
 
- **Currently:** building AI-first products with Next.js + Supabase + Claude/Groq, and open to internships & collaborations.
+My projects span AI, personal finance, automation, and developer tools. I believe the best way to learn isn't by watching tutorials—it's by building, shipping, and improving with every project.
 
-<br>
+Currently building cool things, contributing to open source, and growing.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=BC8CFF)
 ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=58A6FF)
@@ -55,6 +55,6 @@ Currently a Computer Science student, freelance full-stack developer (operating 
 
 <br>
 
-<sub>Built by lohith , powered by curiosity </sub>
+<sub>Built by curosity.</sub>
 
 </div>
