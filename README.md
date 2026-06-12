@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER WAVE ANIMATION -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC8CFF&height=180&section=header&text=Lohith&fontSize=55&fontColor=58A6FF&animation=fadeIn&desc=AI-Native%20Builder%20%7C%20Vibecoder%20%7C%20Full-Stack%20Developer&descAlignY=65&descSize=18&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC8CFF&height=180&section=header&text=Lohith&fontSize=55&fontColor=58A6FF&animation=fadeIn&desc=AI-Native%20Builder%20%7C%20CS-student%20%7C%20App/Web%20Developer&descAlignY=65&descSize=18&fontAlignY=35)
 
 <!-- DYNAMIC TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-Native+Full-Stack+Developer;Building+with+%26+Modern+AI+Agents;Shipping+Production-Ready+Apps/Websites+Fast)](https://github.com/Lohith848)
