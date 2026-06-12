@@ -1,67 +1,100 @@
 <div align="center">
 
+<!-- HEADER WAVE ANIMATION -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC8CFF&height=180&section=header&text=Lohith&fontSize=55&fontColor=58A6FF&animation=fadeIn&desc=AI-Native%20Builder%20%7C%20Vibecoder%20%7C%20Full-Stack%20Developer&descAlignY=65&descSize=18&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-Native+Full-Stack+Developer;Vibecoding+with+Claude+%26+Modern+AI+Agents;Shipping+Production-Ready+Apps+Fast)](https://github.com/Lohith848)
+<!-- DYNAMIC TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-Native+Full-Stack+Developer;Vibecoding+with+Claude+%26+Modern+AI+Agents;Shipping+Production-Ready+Apps+Fast)](https://github.com/Lohith848)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lohithbuilds/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lohithg080408@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
+---
+
 ## 👋 About Me
 
-I'm a self-described **vibecoder** — an AI-native developer who pairs with modern AI agents and workflows to rapidly prototype, iterate, and ship production-ready apps, often going from idea to deployed product in days, not months.
+I'm an **AI-native full-stack builder** and self-described **vibecoder**. I pair with advanced AI systems and agile workflows to rapidly prototype, iterate, and deploy production-ready applications—often taking ideas to launch in days rather than months.
 
-Currently a Computer Science student, freelance full-stack developer (operating as **TWINLOGIC**), and builder of real AI products spanning agriculture tech, personal finance, and automation. I believe the best way to learn is to ship — so that's what I do, constantly.
+* 🎓 **Education:** Computer Science Student
+* 💼 **Freelance Entity:** Operating under **TWINLOGIC**
+* 🚀 **Philosophy:** The absolute fastest way to learn is to ship. So I ship, constantly.
+* 🎯 **Current Focus:** Building AI-first ecosystem apps using `Next.js` + `Supabase` + `Claude/Groq`.
 
-🎯 **Currently:** building AI-first products with Next.js + Supabase + Claude/Groq, and open to internships & collaborations.
+> 💡 *Open to software engineering internships, AI engineering roles, and high-impact contract collaborations.*
 
-<br>
+---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Stack & Ecosystem
 
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=BC8CFF)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=58A6FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0B72F)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=F0B72F)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=39D353)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39D353)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=39D353)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=C9D1D9)
-![Groq](https://img.shields.io/badge/Groq-0D1117?style=flat-square&logo=groq&logoColor=F0B72F)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=BC8CFF)
-![Notion](https://img.shields.io/badge/Notion-0D1117?style=flat-square&logo=notion&logoColor=C9D1D9)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F0B72F)
+### Frontend & Core Languages
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br>
+### Backend, Data & AI Orchestration
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F5511E?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🚀 Featured Projects
+---
 
-| Project | What it does |
-|---|---|
-| **[F1 Pit Wall Dashboard](https://lohithpitwall.netlify.app)** | A personalized live F1 race dashboard built with vanilla JS and the Jolpica F1 API |
-| **AgroShield AI** | Precision agriculture web app for Indian farmers — plant disease detection, live mandi prices & weather, built on Next.js, Supabase & Gemini |
-| **Calora** | Nutrition-tracking app with AI food scanning and Supabase-backed analytics |
-| **LaunchPad** | A desktop PWA app launcher with a Braun/Bloomberg-inspired "Machined Precision" design |
+## 🚀 Featured AI & Full-Stack Projects
 
-<br>
+### 🏎️ [F1 Pit Wall Dashboard](https://lohithpitwall.netlify.app)
+> **Stack:** Vanilla JS, Jolpica F1 API, Netlify
+* Implements a personalized, low-latency live F1 telemetry and race dashboard.
+* Visualizes complex timing sheets and race metrics effortlessly.
 
-## 📊 GitHub Stats
+### 🌾 AgroShield AI
+> **Stack:** Next.js, Supabase, Gemini Vision Pro API
+* Precision agriculture hub tailored specifically for Indian farmers.
+* Uses computer vision for instant plant disease detection alongside real-time local market (*mandi*) price indexing and high-accuracy weather forecasting.
 
-![](https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_color=30363D&hide_border=false&count_private=true)
+### 🥗 Calora
+> **Stack:** Next.js, Supabase Analytics, Vision LLMs
+* Frictionless nutrition-tracking application.
+* Allows users to instantly scan meal images to extract caloric breakdowns and track long-term nutrition metrics on an analytical dashboard.
 
-![](https://streak-stats.demolab.com/?user=Lohith848&theme=dark&background=0D1117&ring=BC8CFF&fire=F0B72F&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border=30363D&hide_border=false)
+### 🖥️ LaunchPad
+> **Stack:** Next.js, PWA Web API
+* Desktop Progressive Web App launcher featuring a striking, minimalist "Machined Precision" aesthetic inspired by iconic industrial designs from Braun and Bloomberg terminals.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith848&layout=compact&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false&count_private=true)
+---
 
-<br>
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/lohithbuilds/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=F0B72F)](mailto:lohithg080408@gmail.com)
+## 📊 Developer Metrics & Engine Stats
 
 <div align="center">
 
-<sub>Built with curiosity, shipped with AI 🤖</sub>
+<!-- MAIN CARD -->
+<img src="https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_color=30363D&hide_border=false&count_private=true" width="48%" />
+<!-- STREAK CARD -->
+<img src="https://streak-stats.demolab.com/?user=Lohith848&theme=dark&background=0D1117&ring=BC8CFF&fire=F0B72F&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border=30363D&hide_border=false" width="48%" />
+
+<br />
+
+<!-- LANGUAGES CARD -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith848&layout=compact&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false&count_private=true" width="60%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Built with curiosity, shipped with AI 🤖 • © 2026 TWINLOGIC</sub>
 
 </div>
