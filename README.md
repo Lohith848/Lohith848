@@ -30,13 +30,6 @@ Currently building cool things, contributing to open source, and growing.
 
 <br>
 
-## Currently Exploring
-
-- Data Structures & Algorithms (Java)
-- Operating Systems & Computer Organization
-- Shipping AI-native tools with Claude & Groq
-- F1 strategy, Blender 3D, and content creation on the side
-
 ## Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=BC8CFF)
@@ -60,12 +53,6 @@ Currently building cool things, contributing to open source, and growing.
 ![](https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_color=30363D&hide_border=false&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=Lohith848&theme=dark&background=0D1117&ring=BC8CFF&fire=F0B72F&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border=30363D&hide_border=false)
-
-<br>
-
-## Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Lohith848&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
 
 <br>
 
