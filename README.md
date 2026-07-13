@@ -55,6 +55,6 @@ Currently building cool things, contributing to open source, and growing.
 
 <br>
 
-<sub>- Built by curosity.</sub>
+<sub>- Built by Built</sub>
 
 </div>
