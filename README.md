@@ -64,8 +64,5 @@ Currently building cool things, contributing to open source, and growing.
   <img alt="github-snake" src="https://raw.githubusercontent.com/Lohith848/Lohith848/output/github-snake.svg" />
 </picture>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Lohith848&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
-
+<br>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:BC8CFF,100:0D1117&height=100&section=footer)
