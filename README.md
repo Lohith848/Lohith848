@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- HEADER WAVE ANIMATION -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC8CFF&height=180&section=header&text=Lohith&fontSize=55&fontColor=58A6FF&animation=fadeIn&desc=AI-Native%20Builder%20%7C%20CS-student%20%7C%20App+and+Web%20Developer&descAlignY=65&descSize=18&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC8CFF&height=180&section=header&text=Lohith&fontSize=55&fontColor=58A6FF&animation=fadeIn&desc=AI-Native%20Builder%20%7C%20CS-student%20%7C%20App+and+Web+Developer&descAlignY=65&descSize=18&fontAlignY=35)
 
 <!-- DYNAMIC TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-Native+Full-Stack+Developer;Building+with+%26+Modern+AI+Agents;Shipping+Production-Ready+Apps/Websites+Fast)](https://github.com/Lohith848)
@@ -20,13 +20,22 @@
 
 ## About Me
 
- I'm Lohith — a Computer Science student, AI-native developer, and builder.
+I'm Lohith — a Computer Science student, AI-native developer, and builder.
 
 I love turning ideas into real products. Using AI, modern developer tools, and a lot of curiosity, I rapidly prototype, iterate, and ship applications that solve real-world problems.
 
 My projects span AI, personal finance, automation, and developer tools. I believe the best way to learn isn't by watching tutorials—it's by building, shipping, and improving with every project.
 
 Currently building cool things, contributing to open source, and growing.
+
+<br>
+
+## Currently Exploring
+
+- Data Structures & Algorithms (Java)
+- Operating Systems & Computer Organization
+- Shipping AI-native tools with Claude & Groq
+- F1 strategy, Blender 3D, and content creation on the side
 
 ## Tech Stack
 
@@ -51,3 +60,25 @@ Currently building cool things, contributing to open source, and growing.
 ![](https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_color=30363D&hide_border=false&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=Lohith848&theme=dark&background=0D1117&ring=BC8CFF&fire=F0B72F&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border=30363D&hide_border=false)
+
+<br>
+
+## Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Lohith848&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
+
+<br>
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lohith848/Lohith848/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lohith848/Lohith848/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lohith848/Lohith848/output/github-snake.svg" />
+</picture>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Lohith848&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:BC8CFF,100:0D1117&height=100&section=footer)
