@@ -56,6 +56,6 @@ Currently building cool things, contributing to open source, and growing.
 
 <br>
 
-## Building by curiosity
+## Building by curiosity  ★ 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:BC8CFF,100:0D1117&height=100&section=footer)
