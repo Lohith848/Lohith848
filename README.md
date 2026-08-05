@@ -49,14 +49,12 @@ Currently building cool things, contributing to open source, and growing.
 <br>
 
 
+
 ## GitHub Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lohith848/Lohith848/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lohith848/Lohith848/output/pacman-contribution-graph.svg">
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Lohith848/Lohith848/output/pacman-contribution-graph.svg">
-</picture>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lohith848&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=58A6FF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 
 
