@@ -54,7 +54,7 @@ Currently building cool things, contributing to open source, and growing.
 
 <br>
 
-## 🕹️ Pac-Man Contribution Graph
+## Pac-Man Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lohith848/Lohith848/output/pacman-contribution-graph-dark.svg">
