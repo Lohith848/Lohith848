@@ -5,7 +5,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:BC8CFF&height=180&section=header&text=Lohith&fontSize=55&fontColor=58A6FF&animation=fadeIn&desc=AI-Native%20Builder%20%7C%20CS-student%20%7C%20App+and+Web+Developer&descAlignY=65&descSize=18&fontAlignY=35)
 
 <!-- DYNAMIC TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-Native+Full-Stack+Developer;Building+with+%26+Modern+AI+Agents;Shipping+Production-Ready+Apps/Websites+Fast)](https://github.com/Lohith848)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-Native+Full-Stack+Developer;Building+with+%26+Modern+AI+Agents;Shipping+Production-Ready+Products+Fast)](https://github.com/Lohith848)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lohithbuilds/">
@@ -50,7 +50,16 @@ Currently building cool things, contributing to open source, and growing.
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_color=30363D&hide_border=false&count_private=true)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Lohith848/Lohith848/cards/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Lohith848/Lohith848/cards/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/Lohith848/Lohith848/cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Top languages" />
+
+</div>
 
 <br>
 
