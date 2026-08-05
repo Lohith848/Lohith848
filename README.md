@@ -52,10 +52,13 @@ Currently building cool things, contributing to open source, and growing.
 
 ![](https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_color=30363D&hide_border=false&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=Lohith848&theme=dark&background=0D1117&ring=BC8CFF&fire=F0B72F&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border=30363D&hide_border=false)
-
 <br>
 
-## Building by curiosity  ★ 
+## 🕹️ Pac-Man Contribution Graph
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:BC8CFF,100:0D1117&height=100&section=footer)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lohith848/Lohith848/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lohith848/Lohith848/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my GitHub contributions" src="https://raw.githubusercontent.com/Lohith848/Lohith848/output/pacman-contribution-graph.svg">
+</picture>
+
