@@ -1,0 +1,24 @@
+name: generate profile summary cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "cards"       # pushes generated SVGs to a dedicated "cards" branch
+          THEME: "github_dark"      # one theme, matches your dark palette
+          ANIMATION: "rgb-soft"     # subtle looping RGB glow, unique touch
