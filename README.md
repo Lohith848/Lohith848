@@ -50,14 +50,12 @@ Currently building cool things, contributing to open source, and growing.
 
 
 
+
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lohith848&theme=github_dark" alt="GitHub Stats" />
-  <br>
   <img src="https://streak-stats.demolab.com?user=Lohith848&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 
 
