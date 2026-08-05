@@ -50,13 +50,7 @@ Currently building cool things, contributing to open source, and growing.
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api ?username=Lohith848&show_icons=true&theme= transparent&bg_color=OD1117&title_color=58A6FF &text_color=C9D1D9&icon_color=BC8CFF&border _color=30363D&hide_border=false&count_private =true
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lohith848&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_color=30363D&animation=rgb-soft" width="49%" alt="GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lohith848&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_color=30363D&animation=load" width="49%" alt="Top languages" />
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_color=30363D&hide_border=false&count_private=true)
 
 <br>
 
