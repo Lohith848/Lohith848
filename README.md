@@ -53,7 +53,7 @@ Currently building cool things, contributing to open source, and growing.
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_color=30363D&hide_border=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF)
 
 
 
