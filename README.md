@@ -49,14 +49,14 @@ Currently building cool things, contributing to open source, and growing.
 <br>
 
 
-## GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&bg_color=00000000&text_color=C9D1D9&icon_color=BC8CFF"
-    alt="Lohith's GitHub Stats"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lohith848/Lohith848/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lohith848/Lohith848/output/pacman-contribution-graph.svg">
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Lohith848/Lohith848/output/pacman-contribution-graph.svg">
+</picture>
+
 
 
 
