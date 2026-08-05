@@ -1,3 +1,4 @@
+
 name: generate profile summary cards
 
 on:
@@ -19,6 +20,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "cards"       # pushes generated SVGs to a dedicated "cards" branch
-          THEME: "github_dark"      # one theme, matches your dark palette
-          ANIMATION: "rgb-soft"     # subtle looping RGB glow, unique touch
+          BRANCH_NAME: "cards"     # pushes generated SVGs to a dedicated "cards" branch
+          THEME: "github_dark"    # one plain dark theme, no color cycling
+          ANIMATION: ""            # no animation at all - static, simple
+
