@@ -53,7 +53,7 @@ Currently building cool things, contributing to open source, and growing.
 ## GitHub Stats
 
 <p align="center">
-  <img src="./github-stats.svg" alt="GitHub Stats">
+  <img src="./github-stats.svg" alt="GitHub Stats" width="600">
 </p>
 
 
