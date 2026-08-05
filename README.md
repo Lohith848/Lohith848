@@ -61,6 +61,7 @@ Currently building cool things, contributing to open source, and growing.
 
 </div>
 
+<br>
 
 ## Pac-Man Contribution Graph
 
