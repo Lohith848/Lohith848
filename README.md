@@ -50,11 +50,13 @@ Currently building cool things, contributing to open source, and growing.
 
 
 
+
 ## GitHub Stats
 
 <p align="center">
-  <img src="./github-stats.svg" alt="GitHub Stats" width="600">
+  <img src="https://raw.githubusercontent.com/Lohith848/Lohith848/main/github-stats.svg?v=1" alt="GitHub Stats" width="600" />
 </p>
+
 
 
 
