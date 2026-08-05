@@ -50,9 +50,9 @@ Currently building cool things, contributing to open source, and growing.
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&theme=github_dark&hide_border=true" alt="Lohith's GitHub Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&border_color=30363D&hide_border=false&count_private=true)
+
+<br>
 
 ## Pac-Man Contribution Graph
 
