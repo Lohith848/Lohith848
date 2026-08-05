@@ -50,11 +50,12 @@ Currently building cool things, contributing to open source, and growing.
 
 
 
-## GitHub Activity
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lohith848&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=58A6FF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="./github-stats.svg" alt="GitHub Stats">
 </p>
+
 
 
 
