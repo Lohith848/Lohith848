@@ -1,5 +1,5 @@
 
-name: GitHub Metrics
+name: GitHub Stats
 
 on:
   schedule:
@@ -10,11 +10,11 @@ permissions:
   contents: write
 
 jobs:
-  github-metrics:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate metrics
+      - name: Generate Stats
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -22,5 +22,9 @@ jobs:
           filename: github-metrics.svg
 
           template: classic
-          base: header, activity, community, repositories
+          base: ""
+          
+          plugin_lines: yes
+          plugin_lines_sections: base
+          
           config_timezone: Asia/Kolkata
