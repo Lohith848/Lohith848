@@ -1,5 +1,5 @@
 
-name: GitHub Stats
+name: Update GitHub Stats
 
 on:
   schedule:
@@ -10,21 +10,81 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  stats:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Stats
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Lohith848
-          filename: github-metrics.svg
+      - uses: actions/checkout@v4
 
-          template: classic
-          base: ""
-          
-          plugin_lines: yes
-          plugin_lines_sections: base
-          
-          config_timezone: Asia/Kolkata
+      - name: Generate stats
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          python3 <<'PY'
+          import os, json, urllib.request
+
+          username = "Lohith848"
+          token = os.environ["GH_TOKEN"]
+
+          def get(url):
+              req = urllib.request.Request(
+                  url,
+                  headers={
+                      "Authorization": f"Bearer {token}",
+                      "Accept": "application/vnd.github+json"
+                  }
+              )
+              return json.load(urllib.request.urlopen(req))
+
+          repos = get(f"https://api.github.com/users/{username}/repos?per_page=100")
+
+          stars = sum(r["stargazers_count"] for r in repos)
+
+          events = get(f"https://api.github.com/users/{username}/events?per_page=100")
+          commits = sum(
+              len(e["payload"].get("commits", []))
+              for e in events
+              if e["type"] == "PushEvent"
+          )
+
+          prs = len([
+              e for e in events
+              if e["type"] == "PullRequestEvent"
+          ])
+
+          svg = f'''<svg width="600" height="130"
+          xmlns="http://www.w3.org/2000/svg">
+
+          <style>
+            .value {{
+              font: 600 24px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;
+              fill: #58A6FF;
+            }}
+            .label {{
+              font: 14px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;
+              fill: #8B949E;
+            }}
+          </style>
+
+          <text x="100" y="55" text-anchor="middle" class="value">{stars}</text>
+          <text x="100" y="82" text-anchor="middle" class="label">Stars</text>
+
+          <text x="300" y="55" text-anchor="middle" class="value">{commits}</text>
+          <text x="300" y="82" text-anchor="middle" class="label">Recent Commits</text>
+
+          <text x="500" y="55" text-anchor="middle" class="value">{prs}</text>
+          <text x="500" y="82" text-anchor="middle" class="label">Recent PRs</text>
+
+          </svg>'''
+
+          with open("github-stats.svg", "w") as f:
+              f.write(svg)
+          PY
+
+      - name: Commit stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-stats.svg
+          git diff --cached --quiet || git commit -m "Update GitHub stats"
+          git push
