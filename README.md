@@ -53,9 +53,11 @@ Currently building cool things, contributing to open source, and growing.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Lohith848?style=for-the-badge&logo=github&label=Followers&color=58A6FF&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/Lohith848?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=BC8CFF&labelColor=0D1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lohith848&theme=github_dark" alt="GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Lohith848&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 
 
