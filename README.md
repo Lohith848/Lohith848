@@ -48,12 +48,13 @@ Currently building cool things, contributing to open source, and growing.
 
 <br>
 
+
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith848&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" />
+  <img src="github-metrics.svg" alt="Lohith's GitHub Stats" width="650">
 </p>
+
 
 
 ## Pac-Man Contribution Graph
