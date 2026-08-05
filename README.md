@@ -52,7 +52,10 @@ Currently building cool things, contributing to open source, and growing.
 ## GitHub Stats
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Lohith's GitHub Stats" width="650">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&bg_color=00000000&text_color=C9D1D9&icon_color=BC8CFF"
+    alt="Lohith's GitHub Stats"
+  />
 </p>
 
 
