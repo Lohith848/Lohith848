@@ -50,11 +50,12 @@ Currently building cool things, contributing to open source, and growing.
 
 
 
-
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Lohith848&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF)
-
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Lohith848?style=for-the-badge&logo=github&label=Followers&color=58A6FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/Lohith848?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=BC8CFF&labelColor=0D1117" />
+</p>
 
 
 
