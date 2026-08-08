@@ -49,20 +49,7 @@ Currently building cool things, contributing to open source, and growing.
 <br>
 
 
-
-
-[
-
-![](https://ghstats.dev/api/mini?username=Lohith848&metric=streak)
-
-](https://ghstats.dev)
-[
-
-![](https://ghstats.dev/api/mini?username=Lohith848&metric=commits)
-
-](https://ghstats.dev)
-
-
+https://github-readme-streak-stats-eight.vercel.app?user=Lohith848&theme=github-dark-blue&hide_border=true
 
 
 ## Pac-Man Contribution Graph
