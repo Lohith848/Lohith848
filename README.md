@@ -51,8 +51,8 @@ Currently building cool things, contributing to open source, and growing.
 
 ## GitHub stats 
 
-[![](https://ghstats.dev/api/mini?username=Lohith848&metric=streak)]
-[![](https://ghstats.dev/api/mini?username=Lohith848&metric=commits)]
+![](https://ghstats.dev/api/mini?username=Lohith848&metric=streak)
+![](https://ghstats.dev/api/mini?username=Lohith848&metric=commits)
 
 ## Pac-Man Contribution Graph
 
