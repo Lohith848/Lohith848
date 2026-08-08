@@ -51,11 +51,16 @@ Currently building cool things, contributing to open source, and growing.
 
 
 
-## GitHub Stats
+[
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lohith848&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+![](https://ghstats.dev/api/mini?username=Lohith848&metric=streak)
+
+](https://ghstats.dev)
+[
+
+![](https://ghstats.dev/api/mini?username=Lohith848&metric=commits)
+
+](https://ghstats.dev)
 
 
 
